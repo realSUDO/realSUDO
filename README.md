@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍🎓 I'm a student currently pursuing CS (1st year)<br>📘  I'm currently learning JS<br>💬 Ask me about C/C++<br>⚡ Fun Fact : I use vim and arch btw<br>⚡ Fun Fact 2 : I am a fast learner<br> <br><br>
+🧑‍🎓 I'm a student currently pursuing CS (1st year)<br>📘  I'm currenlty learning Py <br>💬 Ask me about C/C++<br>⚡ Fun Fact : I use vim and arch btw<br>⚡ Fun Fact 2 : I am a fast learner<br> <br><br>
 
 
 ## 🌐 Socials:
